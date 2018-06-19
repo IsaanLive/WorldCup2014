@@ -1,0 +1,84 @@
+{
+status: "SUCCESS",
+data: [
+{
+match_id: "5",
+match_host_id: "colomb_int",
+match_guest_id: "gre_int",
+match_host_name: "Colombia",
+match_guest_name: "Greece",
+match_host_full_name: "Colombia",
+match_guest_full_name: "Greece",
+match_host_score: "0",
+match_guest_score: "0",
+location: "12",
+match_date: "2014-06-14 13:00"
+},
+{
+match_id: "8",
+match_host_id: "ivoc_int",
+match_guest_id: "jap_int",
+match_host_name: "Ivory Coast",
+match_guest_name: "Japan",
+match_host_full_name: "Ivory Coast",
+match_guest_full_name: "Japan",
+match_host_score: "0",
+match_guest_score: "0",
+location: "6",
+match_date: "2014-06-14 22:00"
+},
+{
+match_id: "21",
+match_host_id: "colomb_int",
+match_guest_id: "ivoc_int",
+match_host_name: "Colombia",
+match_guest_name: "Ivory Coast",
+match_host_full_name: "Colombia",
+match_guest_full_name: "Ivory Coast",
+match_host_score: "0",
+match_guest_score: "0",
+location: "5",
+match_date: "2014-06-19 13:00"
+},
+{
+match_id: "23",
+match_host_id: "jap_int",
+match_guest_id: "gre_int",
+match_host_name: "Japan",
+match_guest_name: "Greece",
+match_host_full_name: "Japan",
+match_guest_full_name: "Greece",
+match_host_score: "0",
+match_guest_score: "0",
+location: "2",
+match_date: "2014-06-19 19:00"
+},
+{
+match_id: "39",
+match_host_id: "jap_int",
+match_guest_id: "colomb_int",
+match_host_name: "Japan",
+match_guest_name: "Colombia",
+match_host_full_name: "Japan",
+match_guest_full_name: "Colombia",
+match_host_score: "0",
+match_guest_score: "0",
+location: "8",
+match_date: "2014-06-24 16:00"
+},
+{
+match_id: "40",
+match_host_id: "gre_int",
+match_guest_id: "ivoc_int",
+match_host_name: "Greece",
+match_guest_name: "Ivory Coast",
+match_host_full_name: "Greece",
+match_guest_full_name: "Ivory Coast",
+match_host_score: "0",
+match_guest_score: "0",
+location: "3",
+match_date: "2014-06-24 17:00"
+}
+],
+message: "OK"
+}

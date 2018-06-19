@@ -1,0 +1,72 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background_frame"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingBottom="7dp"
+    android:paddingTop="7dp" >
+
+    <TextView
+        android:id="@+id/lblOrderNumber"
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:gravity="center_horizontal"
+        android:text="10"
+        android:textColor="@color/text_minute_top_score"
+        android:textSize="23sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/imgCountry"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/lblOrderNumber"
+        android:src="@drawable/icon_brazil" />
+
+    <TextView
+        android:id="@+id/lblNameCountry"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/imgCountry"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="BRAZIL"
+        android:textColor="@color/white_text"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lblPlayer"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/lblNameCountry"
+        android:ellipsize="marquee"
+        android:gravity="center"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="@string/detai_group_point_Pts"
+        android:textColor="@color/white_text"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lblScore"
+        android:layout_width="40dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="10dp"
+        android:gravity="center"
+        android:text="100"
+        android:textColor="@color/white_text"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+</RelativeLayout>

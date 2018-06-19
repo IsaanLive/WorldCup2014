@@ -1,0 +1,66 @@
+{
+status: "SUCCESS",
+data: [
+{
+team_id: "bos_int",
+group_name: "F",
+team_name: "Bosnia-Herzegovina",
+team_full_name: "Bosnia-Herzegovina",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "1",
+team_detail: "group=F "
+},
+{
+team_id: "arg_int",
+group_name: "F",
+team_name: "Argentina",
+team_full_name: "Argentina",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "2",
+team_detail: "group=F "
+},
+{
+team_id: "nig_int",
+group_name: "F",
+team_name: "Nigeria",
+team_full_name: "Nigeria",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "3",
+team_detail: "group=F "
+},
+{
+team_id: "iran_int",
+group_name: "F",
+team_name: "Iran",
+team_full_name: "Iran",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "4",
+team_detail: "group=F "
+}
+],
+message: "OK"
+}

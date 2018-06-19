@@ -1,0 +1,66 @@
+{
+status: "SUCCESS",
+data: [
+{
+team_id: "cro_int",
+group_name: "A",
+team_name: "Croatia",
+team_full_name: "Croatia",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "1",
+team_detail: "group=A "
+},
+{
+team_id: "bra_int",
+group_name: "A",
+team_name: "Brazil",
+team_full_name: "Brazil",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "2",
+team_detail: "group=A "
+},
+{
+team_id: "mex_int",
+group_name: "A",
+team_name: "Mexico",
+team_full_name: "Mexico",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "3",
+team_detail: "group=A "
+},
+{
+team_id: "cam_int",
+group_name: "A",
+team_name: "Cameroon",
+team_full_name: "Cameroon",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "4",
+team_detail: "group=A "
+}
+],
+message: "OK"
+}

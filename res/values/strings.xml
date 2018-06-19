@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <string name="app_name">Brasilien 2014</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="title_activity_schedule">Zeitplan</string>
+    <string name="tab_home">HOME</string>
+    <string name="tab_schedule">Zeitplan</string>
+    <string name="tab_group">Gruppen</string>
+    <string name="tab3">Nachrichten</string>
+    <string name="tab_treemap">Diagramm</string>
+    <string name="point">Punkte</string>
+    <string name="schedule">Zeitplan</string>
+    <string name="matchInfo">Spielinfo</string>
+    <string name="matchresult">Ergebnis</string>
+    <string name="top_score">Top-Torschütze</string>
+    <string name="info">Info</string>
+    <string name="player">Spieler</string>
+    <string name="score">Ergebnis</string>
+    <string name="check_quit_app">Wollen Sie das Programm beenden?</string>
+    <string name="title_check_quit_app">Programm beenden</string>
+    <string name="message_cancel_alarm">Sind Sie sicher, dass Sie alle Alarme abbrechen wollen ?</string>
+    <string name="checkinfo">Sie können mehr Infos von Teams abrufen in dem Sie auf das Land in der Liste klicken.</string>
+    <string name="to_day">HEUTE</string>
+    <string name="all_of_schedule">ALLE TERMINE</string>
+    <string name="history">HISTORISCHE SPIELE</string>
+    <string name="future">ZUKUNFT</string>
+    <string name="country">LAND</string>
+    <string name="today">HEUTE</string>
+    <string name="point_group_title">PUNKTE FÜR GRUPPEN </string>
+    <string name="main_no_items">Keine Daten gefunden</string>
+    <string name="click_web">Klicken Sie auf die URL, um Informationen zum Spiel zu lesen</string>
+    <string name="link_homepage"><u>guiltyplanet.com</u></string>
+    <string name="setRimender15min">Alarm 15 Minuten vor dem Spiel</string>
+    <string name="setRimender30min">Alarm 30 Minuten vor dem Spiel</string>
+    <string name="setRimenderOnTime">Alarm auf Zeit </string>
+    <string name="no_match_found">Keine Spiele gefunden</string>
+    <string name="no_date_found">Keine Daten gefunden</string>
+    <string name="reminder_title">Erinnerung für dieses Spiel </string>
+    <string name="goal">Tor</string>
+    <string name="red_card">Rote Karte</string>
+    <string name="yellow_card">Gekbe Karte</string>
+    <string name="pennaly">(pen): Elfmeter</string>
+    <string name="owngoal">(o.g): Eigentor</string>
+    <string name="guide_pts">Pts = Punkte</string>
+    <string name="downloading">Downloading&#8230;</string>
+    <string name="team">Mannschaft</string>
+    <string name="guide_w">W   = Sieg</string>
+    <string name="guide_l">L   = Verloren</string>
+    <string name="guide_mp">MP  =  Spiele gespielt </string>
+    <string name="guide_D">D   = Unentschieden</string>
+    <string name="guide_plus">+/-  = Tordifferenz</string>
+    <string name="match_number">Spiel : </string>
+    <string name="group_">Gruppe</string>
+    <string name="myWeb">http://reservations.guiltyplanet.com</string>
+    <string name="UNK">\?</string>
+
+    <!-- String Button -->
+    <string name="button_ok">OK</string>
+    <string name="button_no">Nein</string>
+    <string name="button_oui">Ja</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="radio_button_befor15mins">15 Minuten vor dem Spiel</string>
+    <string name="radio_button_befor30mins">30 Minuten vor dem Spiel</string>
+    <string name="radio_button_onTime"> Pünktlich </string>
+
+    <!-- String Dialog -->
+
+    <string name="dialog_title_before15min"> Das Spiel wird in 15 Minuten beginnen </string>
+    <string name="dialog_title_before30min"> Das Spiel wird in 30 Minuten beginnen </string>
+    <string name="dialog_title_onTime"> Das Spiel beginnt!!!  </string>
+
+    <!-- String Toast -->
+
+    <string name="toast_message_no_data_match"> Keine Infos zum Spiel </string>
+    <string name="toast_message_rimender15"> Ein Alarm wurde für dieses Spiel auf 15 Minuten eingestellt </string>
+    <string name="toast_message_rimender30"> Ein Alarm wurde für dieses Spiel vor 30 Minuten eingestellt </string>
+    <string name="toast_message_rimender_ontime "> Ein Alarm wurde für dieses Spiel aktiviert </string>
+    <string name="toast_title_elapsed_time "> Abgelaufene Spiel - Alarm wurde nicht aktiviert </string>
+    <string name="toast_message_loading "> Laden..... </string>
+    <string name="toast_message_loading_no_network "> Laden..... </string>
+    <string name="toast_message_no_network_no_data "> Sie sind nicht mit dem Internet verbunden. Datenbank wurde nicht geladen </string>
+    <string name="msg_no_interet">Keine Internetverbindung !</string>
+    <string name="msg_cannot_get_list_event">Es sind keine Termine für dieses Spiel angegeben</string>
+    <string name="msg_open_network">Keine Internetverbindung !\n Wollen Sie die Einstellungen jetzt öffnen?</string>
+    <string name="msg_update">Neuere Softwareversion verfügbar. Bitte aktualisieren Sie jetzt dieses Program</string>
+    <!-- String WebView -->
+
+    <string name="Web_view_title">Alarm setzen für dieses Spiel </string>
+
+    <!-- Home screen -->
+    <string name="home_title">WORLD CUP</string>
+    <string name="home_year">2014</string>
+    <string name="coming_in">COMING IN</string>
+    <string name="home_day">DAYS</string>
+    <string name="home_hour">HOURS</string>
+    <string name="home_min">MINS</string>
+    <string name="home_sec">SECS</string>
+    <string name="home_brazil">BRAZIL</string>
+    <string name="country_cote">Côte d\'Ivoire</string>
+    <!-- Notification messsage -->
+
+    <string name="update_message">Neue Daten verfügbar </string>
+    <string name="click_update">Klicken Sie hier, um die neue Version zu aktualisieren !</string>
+
+    <!-- String About -->
+    <string name="about_header">ÜBER UNS</string>
+    <string name="about_title">BRASILIEN 2014</string>
+    <string name="about_content_red">Sentosa Technologie entwickelt Mobile Applications weltweit mit einem Buero in Singapore, Deutschland und Thailand.</string>
+    <string name="about_content_black">We are also happy to serve your Freelance/Outsourcing jobs. Your satisfaction is our first Priority </string>
+    <string name="about_link">http://guiltyplanet.com</string>
+
+    <!-- String Detail Groups -->
+    <string name="info_country_header"> FOOTBALL TEAM INFO</string>
+    <string name="detai_group_point_MP">MP</string>
+    <string name="detai_group_point_W">W</string>
+    <string name="detai_group_point_D">D</string>
+    <string name="detai_group_point_L">L</string>
+    <string name="detai_group_point_hs">+/-</string>
+    <string name="detai_group_point_Pts">Pts</string>
+
+    <!-- String Detail Match -->
+     <string name="capacity">Kapazität</string>
+    <!-- Array -->
+    <string-array name="arraySelect">
+        <item>Option wählen</item>
+    </string-array>
+    
+    <!-- country name -->
+    <string name="GERMANY">Deutschland</string>
+    <string name="SWITZERLAND">Schweiz</string>
+    <string name="ALGERIA">Algerien</string>
+    <string name="ARGENTINA">Argentinien</string>
+    <string name="AUSTRALIA">Australien</string>
+    <string name="BELGIUM">Belgien</string>
+    <string name="BOSNIA_HERZEGOVINA">Bosnien und Herzegowina</string>
+    <string name="BRAZIL">Brasilien</string>
+    <string name="CHILE">Chile</string>
+    <string name="COSTA_RICA">Costa Rica</string>
+    <string name="IVORY_COAST">Elfenbeinküste</string>
+    <string name="ENGLAND">England</string>
+    <string name="ECUADOR">Ecuador</string>
+    <string name="FRANCE">Frankreich</string>
+    <string name="GHANA">Ghana</string>
+    <string name="GREECE">Griechenland</string>
+    <string name="HONDURAS">Honduras</string>
+    <string name="IRAN">Iran</string>
+    <string name="ITALY">Italien</string>
+    <string name="JAPAN">Japan</string>
+    <string name="CAMEROON">Kamerun</string>
+    <string name="COLOMBIA">Kolumbien</string>
+    <string name="CROATIA">Kroatien</string>
+    <string name="MEXICO">Mexiko</string>
+    <string name="NETHERLANDS">Niederlande</string>
+    <string name="NIGERIA">Nigeria</string>
+    <string name="PORTUGAL">Portugal</string>
+    <string name="RUSSIA">Russland</string>
+    <string name="SPAIN">Spanien</string>
+    <string name="SOUTH_KOREA">Südkorea</string>
+    <string name="URUGUAY">Uruguay</string>
+    <string name="USA">USA</string>
+    <string name="UNKNOW">Unbekannt</string>   
+    
+ </resources>

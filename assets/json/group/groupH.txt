@@ -1,0 +1,66 @@
+{
+status: "SUCCESS",
+data: [
+{
+team_id: "rus_int",
+group_name: "H",
+team_name: "Russia",
+team_full_name: "Russia",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "1",
+team_detail: "group=H "
+},
+{
+team_id: "bel_int",
+group_name: "H",
+team_name: "Belgium",
+team_full_name: "Belgium",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "2",
+team_detail: "group=H "
+},
+{
+team_id: "alg_int",
+group_name: "H",
+team_name: "Algeria",
+team_full_name: "Algeria",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "3",
+team_detail: "group=H "
+},
+{
+team_id: "korr_int",
+group_name: "H",
+team_name: "South Korea",
+team_full_name: "Korea Republic",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "4",
+team_detail: "group=H "
+}
+],
+message: "OK"
+}

@@ -1,0 +1,66 @@
+{
+status: "SUCCESS",
+data: [
+{
+team_id: "fra_int",
+group_name: "E",
+team_name: "France",
+team_full_name: "France",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "1",
+team_detail: "group=E "
+},
+{
+team_id: "swi_int",
+group_name: "E",
+team_name: "Switzerland",
+team_full_name: "Switzerland",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "2",
+team_detail: "group=E "
+},
+{
+team_id: "ecuad_int",
+group_name: "E",
+team_name: "Ecuador",
+team_full_name: "Ecuador",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "3",
+team_detail: "group=E "
+},
+{
+team_id: "hond_int",
+group_name: "E",
+team_name: "Honduras",
+team_full_name: "Honduras",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "4",
+team_detail: "group=E "
+}
+],
+message: "OK"
+}

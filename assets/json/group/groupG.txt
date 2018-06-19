@@ -1,0 +1,66 @@
+{
+status: "SUCCESS",
+data: [
+{
+team_id: "ger_int",
+group_name: "G",
+team_name: "Germany",
+team_full_name: "Germany",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "1",
+team_detail: "group=G "
+},
+{
+team_id: "por_int",
+group_name: "G",
+team_name: "Portugal",
+team_full_name: "Portugal",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "2",
+team_detail: "group=G "
+},
+{
+team_id: "usa_int",
+group_name: "G",
+team_name: "USA",
+team_full_name: "USA",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "3",
+team_detail: "group=G "
+},
+{
+team_id: "gha_int",
+group_name: "G",
+team_name: "Ghana",
+team_full_name: "Ghana",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "4",
+team_detail: "group=G "
+}
+],
+message: "OK"
+}

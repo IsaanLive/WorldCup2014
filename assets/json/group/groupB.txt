@@ -1,0 +1,66 @@
+{
+status: "SUCCESS",
+data: [
+{
+team_id: "ned_int",
+group_name: "B",
+team_name: "Netherlands",
+team_full_name: "Netherlands",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "1",
+team_detail: "group=B "
+},
+{
+team_id: "spa_int",
+group_name: "B",
+team_name: "Spain",
+team_full_name: "Spain",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "2",
+team_detail: "group=B "
+},
+{
+team_id: "chil_int",
+group_name: "B",
+team_name: "Chile",
+team_full_name: "Chile",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "3",
+team_detail: "group=B "
+},
+{
+team_id: "aus_int",
+group_name: "B",
+team_name: "Australia",
+team_full_name: "Australia",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "4",
+team_detail: "group=B "
+}
+],
+message: "OK"
+}

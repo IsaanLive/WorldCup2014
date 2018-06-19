@@ -1,0 +1,97 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/background_frame"
+    android:gravity="center_vertical"
+    android:orientation="horizontal"
+    android:paddingBottom="7dp"
+    android:paddingTop="7dp" >
+    <ImageView
+        android:id="@+id/imgCountry"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentLeft="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="8dp"
+        android:src="@drawable/icon_brazil" />
+
+    <TextView
+        android:id="@+id/lblNameCountry"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@+id/imgCountry"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="BRAZIL"
+        android:textColor="@color/white_text"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lblPts"
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/detai_group_point_Pts"
+        android:textColor="@color/red_text"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lblMP"
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/lblPts"
+        android:gravity="center"
+        android:text="@string/detai_group_point_MP"
+        android:textColor="@color/white_text"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lblW"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/lblMP"
+        android:gravity="center"
+        android:text="@string/detai_group_point_W"
+        android:textColor="@color/white_text"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lblD"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/lblW"
+        android:gravity="center"
+        android:text="@string/detai_group_point_D"
+        android:textColor="@color/white_text"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lblL"
+        android:layout_width="25dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/lblD"
+        android:gravity="center"
+        android:text="@string/detai_group_point_L"
+        android:textColor="@color/white_text"
+        android:textSize="18sp" />
+
+    <TextView
+        android:id="@+id/lblHs"
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/lblL"
+        android:gravity="center"
+        android:text="@string/detai_group_point_hs"
+        android:textColor="@color/white_text"
+        android:textSize="18sp" />
+
+</RelativeLayout>

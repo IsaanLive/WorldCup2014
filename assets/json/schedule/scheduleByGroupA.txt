@@ -1,0 +1,84 @@
+{
+status: "SUCCESS",
+data: [
+{
+match_id: "1",
+match_host_id: "bra_int",
+match_guest_id: "cro_int",
+match_host_name: "Brazil",
+match_guest_name: "Croatia",
+match_host_full_name: "Brazil",
+match_guest_full_name: "Croatia",
+match_host_score: "0",
+match_guest_score: "0",
+location: "1",
+match_date: "2014-06-12 17:00"
+},
+{
+match_id: "2",
+match_host_id: "mex_int",
+match_guest_id: "cam_int",
+match_host_name: "Mexico",
+match_guest_name: "Cameroon",
+match_host_full_name: "Mexico",
+match_guest_full_name: "Cameroon",
+match_host_score: "0",
+match_guest_score: "0",
+location: "2",
+match_date: "2014-06-13 13:00"
+},
+{
+match_id: "16",
+match_host_id: "bra_int",
+match_guest_id: "mex_int",
+match_host_name: "Brazil",
+match_guest_name: "Mexico",
+match_host_full_name: "Brazil",
+match_guest_full_name: "Mexico",
+match_host_score: "0",
+match_guest_score: "0",
+location: "3",
+match_date: "2014-06-17 16:00"
+},
+{
+match_id: "20",
+match_host_id: "cam_int",
+match_guest_id: "cro_int",
+match_host_name: "Cameroon",
+match_guest_name: "Croatia",
+match_host_full_name: "Cameroon",
+match_guest_full_name: "Croatia",
+match_host_score: "0",
+match_guest_score: "0",
+location: "4",
+match_date: "2014-06-18 18:00"
+},
+{
+match_id: "35",
+match_host_id: "cam_int",
+match_guest_id: "bra_int",
+match_host_name: "Cameroon",
+match_guest_name: "Brazil",
+match_host_full_name: "Cameroon",
+match_guest_full_name: "Brazil",
+match_host_score: "0",
+match_guest_score: "0",
+location: "5",
+match_date: "2014-06-23 17:00"
+},
+{
+match_id: "36",
+match_host_id: "cro_int",
+match_guest_id: "mex_int",
+match_host_name: "Croatia",
+match_guest_name: "Mexico",
+match_host_full_name: "Croatia",
+match_guest_full_name: "Mexico",
+match_host_score: "0",
+match_guest_score: "0",
+location: "6",
+match_date: "2014-06-23 17:00"
+}
+],
+message: "OK"
+}

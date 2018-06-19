@@ -1,0 +1,51 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scrollView1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:id="@+id/layoutSchedule"
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal" >
+        
+        <Spinner
+            android:id="@+id/spnSchedule"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_dropdown" />
+        
+        <Spinner
+            android:id="@+id/spnCountry"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_dropdown" />
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/lsvTab1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:layout_below="@+id/layoutSchedule"
+        android:orientation="vertical" >
+    </ListView>
+
+    <TextView
+        android:id="@+id/lblNoData"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:gravity="center"
+        android:text="@string/no_match_found"
+        android:textColor="@color/white_text"
+        android:textSize="20sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

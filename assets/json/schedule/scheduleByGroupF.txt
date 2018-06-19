@@ -1,0 +1,84 @@
+{
+status: "SUCCESS",
+data: [
+{
+match_id: "11",
+match_host_id: "arg_int",
+match_guest_id: "bos_int",
+match_host_name: "Argentina",
+match_guest_name: "Bosnia-Herzegovina",
+match_host_full_name: "Argentina",
+match_guest_full_name: "Bosnia-Herzegovina",
+match_host_score: "0",
+match_guest_score: "0",
+location: "9",
+match_date: "2014-06-15 19:00"
+},
+{
+match_id: "13",
+match_host_id: "iran_int",
+match_guest_id: "nig_int",
+match_host_name: "Iran",
+match_guest_name: "Nigeria",
+match_host_full_name: "Iran",
+match_guest_full_name: "Nigeria",
+match_host_score: "0",
+match_guest_score: "0",
+location: "11",
+match_date: "2014-06-16 16:00"
+},
+{
+match_id: "27",
+match_host_id: "arg_int",
+match_guest_id: "iran_int",
+match_host_name: "Argentina",
+match_guest_name: "Iran",
+match_host_full_name: "Argentina",
+match_guest_full_name: "Iran",
+match_host_score: "0",
+match_guest_score: "0",
+location: "12",
+match_date: "2014-06-21 13:00"
+},
+{
+match_id: "29",
+match_host_id: "nig_int",
+match_guest_id: "bos_int",
+match_host_name: "Nigeria",
+match_guest_name: "Bosnia-Herzegovina",
+match_host_full_name: "Nigeria",
+match_guest_full_name: "Bosnia-Herzegovina",
+match_host_score: "0",
+match_guest_score: "0",
+location: "8",
+match_date: "2014-06-21 18:00"
+},
+{
+match_id: "41",
+match_host_id: "nig_int",
+match_guest_id: "arg_int",
+match_host_name: "Nigeria",
+match_guest_name: "Argentina",
+match_host_full_name: "Nigeria",
+match_guest_full_name: "Argentina",
+match_host_score: "0",
+match_guest_score: "0",
+location: "10",
+match_date: "2014-06-25 13:00"
+},
+{
+match_id: "42",
+match_host_id: "bos_int",
+match_guest_id: "iran_int",
+match_host_name: "Bosnia-Herzegovina",
+match_guest_name: "Iran",
+match_host_full_name: "Bosnia-Herzegovina",
+match_guest_full_name: "Iran",
+match_host_score: "0",
+match_guest_score: "0",
+location: "7",
+match_date: "2014-06-25 13:00"
+}
+],
+message: "OK"
+}

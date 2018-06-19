@@ -1,0 +1,84 @@
+{
+status: "SUCCESS",
+data: [
+{
+match_id: "9",
+match_host_id: "swi_int",
+match_guest_id: "ecuad_int",
+match_host_name: "Switzerland",
+match_guest_name: "Ecuador",
+match_host_full_name: "Switzerland",
+match_guest_full_name: "Ecuador",
+match_host_score: "0",
+match_guest_score: "0",
+location: "5",
+match_date: "2014-06-15 13:00"
+},
+{
+match_id: "10",
+match_host_id: "fra_int",
+match_guest_id: "hond_int",
+match_host_name: "France",
+match_guest_name: "Honduras",
+match_host_full_name: "France",
+match_guest_full_name: "Honduras",
+match_host_score: "0",
+match_guest_score: "0",
+location: "10",
+match_date: "2014-06-15 16:00"
+},
+{
+match_id: "25",
+match_host_id: "swi_int",
+match_guest_id: "fra_int",
+match_host_name: "Switzerland",
+match_guest_name: "France",
+match_host_full_name: "Switzerland",
+match_guest_full_name: "France",
+match_host_score: "0",
+match_guest_score: "0",
+location: "7",
+match_date: "2014-06-20 16:00"
+},
+{
+match_id: "26",
+match_host_id: "hond_int",
+match_guest_id: "ecuad_int",
+match_host_name: "Honduras",
+match_guest_name: "Ecuador",
+match_host_full_name: "Honduras",
+match_guest_full_name: "Ecuador",
+match_host_score: "0",
+match_guest_score: "0",
+location: "11",
+match_date: "2014-06-20 19:00"
+},
+{
+match_id: "43",
+match_host_id: "hond_int",
+match_guest_id: "swi_int",
+match_host_name: "Honduras",
+match_guest_name: "Switzerland",
+match_host_full_name: "Honduras",
+match_guest_full_name: "Switzerland",
+match_host_score: "0",
+match_guest_score: "0",
+location: "4",
+match_date: "2014-06-25 16:00"
+},
+{
+match_id: "44",
+match_host_id: "ecuad_int",
+match_guest_id: "fra_int",
+match_host_name: "Ecuador",
+match_guest_name: "France",
+match_host_full_name: "Ecuador",
+match_guest_full_name: "France",
+match_host_score: "0",
+match_guest_score: "0",
+location: "9",
+match_date: "2014-06-25 17:00"
+}
+],
+message: "OK"
+}

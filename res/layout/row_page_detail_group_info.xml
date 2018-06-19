@@ -1,0 +1,30 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="200dp"
+    android:layout_height="70dp"
+    android:descendantFocusability="blocksDescendants"
+    android:background="@color/background_frame"
+    android:layout_marginLeft="10dp"
+     >
+
+    <ImageView
+        android:id="@+id/imgCountryInfo"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_above="@+id/lblNameCountryInfo"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/icon_australia" />
+
+    <TextView
+        android:id="@+id/lblNameCountryInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+        android:text="JAPAN"
+        android:textColor="@color/white_text"
+        android:textSize="22dp" />
+
+</RelativeLayout>

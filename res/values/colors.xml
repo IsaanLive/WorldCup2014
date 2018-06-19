@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="work_color">#cccccc</color>
+    <color name="time_color">#cccccc</color>
+    <color name="hint_color">#cccccc</color>
+    <color name="text">#575759</color>
+    <color name="blue_header">#326195</color>
+    <color name="gray">#e9e9e9</color>
+    <color name="violet">#892980</color>
+    <color name="green">#008000</color>
+    <color name="color_button_blue">#4cb4b5</color>
+    <color name="brown">#946146</color>
+    <color name="yellow">#e67e22</color>
+    <color name="white">#ffffff</color>
+    <color name="blue">#2f68ac</color>
+    <color name="transparent">#00000000</color>
+    <color name="red">#FF0000</color>
+    <color name="violetframe">#7d6b91</color>
+
+    <!-- Color Text -->
+    <color name="text_header">#ffff00</color>
+    <color name="red_text">#ff2222</color>
+    <color name="white_text">#ffffff</color>
+    <color name="text_home_fragment">#323232</color>
+    <color name="number_home_fragment">#008000</color>
+    <color name="text_spinner">#002200</color>
+    <color name="text_minute_top_score">#05c405</color>
+
+    <!-- Color Background -->
+    <color name="background_header">#05c405</color>
+    <color name="background">#1d1e22</color>
+    <color name="background_frame">#363b3f</color>
+    <color name="background_reminder">#3c3c3c</color>
+    <!-- Color Indicator -->
+    <color name="background_indicator">#ffb400</color>
+    <color name="text_indicator_selected">#008000</color>
+
+</resources>

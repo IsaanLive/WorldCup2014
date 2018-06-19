@@ -1,0 +1,448 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="@color/background_header" >
+
+        <Button
+            android:id="@+id/btnbackAbout"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/ic_back" />
+
+        <TextView
+            android:id="@+id/lblHeaderTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/btnbackAbout"
+            android:layout_alignBottom="@+id/btnbackAbout"
+            android:layout_alignParentLeft="true"
+            android:gravity="center_horizontal"
+            android:text="@string/matchInfo"
+            android:textColor="@color/text_header"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btnRefresh"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/ic_refresh" />
+    </RelativeLayout>
+
+    <ScrollView
+        style="@style/Layout.FillWidthHeight"
+        android:background="@color/background" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@color/background"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/lblTitleAlarm"
+                style="@style/Layout.FillWidth"
+                android:layout_marginTop="5dp"
+                android:gravity="center_horizontal"
+                android:text="@string/Web_view_title"
+                android:textColor="@color/white_text" />
+
+            <RelativeLayout style="@style/Layout.FillWidth" >
+
+                <ImageView
+                    android:id="@+id/imgAlarm"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_centerHorizontal="true"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_marginTop="5dp"
+                    android:background="@drawable/ic_alarm" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="40dp" >
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1" >
+
+                    <TextView
+                        android:id="@+id/lblDate"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="bottom"
+                        android:layout_marginLeft="20dp"
+                        android:text="FRI "
+                        android:textColor="@color/white_text"
+                        android:textSize="15dp" />
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/lbltimeMatch"
+                    android:layout_width="wrap_content"
+                    android:layout_height="30dp"
+                    android:layout_gravity="bottom"
+                    android:layout_marginRight="20dp"
+                    android:layout_weight="0"
+                    android:text="03:00"
+                    android:textColor="@color/white_text" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="7dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/bg_frame"
+                android:orientation="vertical"
+                android:paddingBottom="10dp" >
+
+                <LinearLayout
+                    android:id="@+id/layoutStadium"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="17dp"
+                    android:layout_marginRight="17dp"
+                    android:layout_marginTop="15dp"
+                    android:orientation="vertical"
+                    android:visibility="gone" >
+
+                    <ImageView
+                        android:id="@+id/imgStadium"
+                        android:layout_width="fill_parent"
+                        android:layout_height="80dp"
+                        android:scaleType="centerCrop" />
+
+                    <TextView
+                        android:id="@+id/lblStadiumFull"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginTop="5dp"
+                        android:gravity="center_horizontal"
+                        android:text="Rio Deca tico"
+                        android:textColor="@color/white_text"
+                        android:textSize="18sp" />
+
+                    <TextView
+                        android:id="@+id/lblCapacity"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="5dp"
+                        android:gravity="center_horizontal"
+                        android:text="capacity 14,5689"
+                        android:textColor="@color/white_text"
+                        android:textSize="14sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linearLayout1"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentLeft="true"
+                    android:layout_below="@+id/layoutStadium"
+                    android:orientation="vertical"
+                    android:paddingBottom="23dp" >
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:layout_gravity="center_horizontal"
+                        android:gravity="center_horizontal"
+                        android:padding="3dp" >
+
+                        <TextView
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
+                            android:text="@string/match_number"
+                            android:textColor="@color/white_text" />
+
+                        <TextView
+                            android:id="@+id/lblmatch"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_marginTop="10dp"
+                            android:gravity="center"
+                            android:paddingLeft="4dp"
+                            android:text="1"
+                            android:textColor="@color/white_text" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:orientation="horizontal" >
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                android:id="@+id/imgcountry1Match"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:layout_gravity="center"
+                                android:src="@drawable/icon_brazil" />
+
+                            <TextView
+                                android:id="@+id/lblname1Match"
+                                android:layout_width="70dp"
+                                android:layout_height="wrap_content"
+                                android:ellipsize="marquee"
+                                android:gravity="center_horizontal"
+                                android:marqueeRepeatLimit="marquee_forever"
+                                android:singleLine="true"
+                                android:text="BRAZIL"
+                                android:textColor="@color/white_text"
+                                android:textSize="15dp" />
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:orientation="vertical" >
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:gravity="center_horizontal" >
+
+                                <TextView
+                                    android:id="@+id/lblgoal1Match"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text=" "
+                                    android:textColor="@color/white_text"
+                                    android:textSize="50dp" />
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text=":"
+                                    android:textColor="@color/white_text"
+                                    android:textSize="50dp" />
+
+                                <TextView
+                                    android:id="@+id/lblgoal2Match"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:text=" "
+                                    android:textColor="@color/white_text"
+                                    android:textSize="50dp" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:gravity="center_horizontal" >
+
+                                <TextView
+                                    android:id="@+id/lblsvdMatch"
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:singleLine="true"
+                                    android:text="SAOPAOLO"
+                                    android:textColor="@color/white_text"
+                                    android:textSize="10dp" />
+                            </LinearLayout>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:layout_weight="1"
+                            android:gravity="center_horizontal"
+                            android:orientation="vertical" >
+
+                            <ImageView
+                                android:id="@+id/imgcountry2Match"
+                                android:layout_width="60dp"
+                                android:layout_height="60dp"
+                                android:layout_gravity="center"
+                                android:src="@drawable/icon_croatia" />
+
+                            <TextView
+                                android:id="@+id/lblname2Match"
+                                android:layout_width="70dp"
+                                android:layout_height="wrap_content"
+                                android:ellipsize="marquee"
+                                android:gravity="center_horizontal"
+                                android:marqueeRepeatLimit="marquee_forever"
+                                android:singleLine="true"
+                                android:text="CROATIA"
+                                android:textColor="@color/white_text"
+                                android:textSize="15dp" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </LinearLayout>
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/layoutEvent"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:gravity="center_horizontal"
+                android:orientation="vertical" >
+
+                <com.sentosatech.worldcup2014de.utility.NoScrollListView
+                    android:id="@+id/lsvEvent"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:layout_above="@+id/layoutGuide" />
+
+                <LinearLayout
+                    android:id="@+id/layoutGuide"
+                    style="@style/Layout.FillWidth"
+                    android:layout_marginTop="10dp"
+                    android:orientation="vertical"
+                    android:padding="5dp" >
+
+                    <LinearLayout
+                        style="@style/Layout.FillWidth"
+                        android:orientation="horizontal" >
+
+                        <LinearLayout
+                            style="@style/Layout.FillWidth"
+                            android:layout_weight="1" >
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:src="@drawable/icon_goal" />
+
+                            <TextView
+                                style="@style/Layout.FillWidth"
+                                android:paddingLeft="4dp"
+                                android:text="@string/goal"
+                                android:textColor="@color/white" >
+                            </TextView>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            style="@style/Layout.FillWidth"
+                            android:layout_weight="1" >
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:src="@drawable/icon_red_card" />
+
+                            <TextView
+                                style="@style/Layout.FillWidth"
+                                android:paddingLeft="4dp"
+                                android:text="@string/red_card"
+                                android:textColor="@color/white_text" >
+                            </TextView>
+                        </LinearLayout>
+
+                        <LinearLayout
+                            style="@style/Layout.FillWidth"
+                            android:layout_weight="1" >
+
+                            <ImageView
+                                android:layout_width="20dp"
+                                android:layout_height="20dp"
+                                android:src="@drawable/icon_yellow_card" />
+
+                            <TextView
+                                style="@style/Layout.FillWidth"
+                                android:paddingLeft="4dp"
+                                android:text="@string/yellow_card"
+                                android:textColor="@color/white_text" >
+                            </TextView>
+                        </LinearLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        style="@style/Layout.FillWidth"
+                        android:layout_marginTop="10dp"
+                        android:orientation="horizontal" >
+
+                        <TextView
+                            style="@style/Layout.WrapWidthHeight"
+                            android:paddingLeft="4dp"
+                            android:text="@string/pennaly"
+                            android:textColor="@color/white_text" >
+                        </TextView>
+
+                        <TextView
+                            style="@style/Layout.WrapWidthHeight"
+                            android:layout_marginLeft="10dp"
+                            android:paddingLeft="4dp"
+                            android:text="@string/owngoal"
+                            android:textColor="@color/white_text" >
+                        </TextView>
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:id="@+id/txtReminder15"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/setRimender15min"
+                    android:textColor="@color/white_text"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/txtReminder30"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:text="@string/setRimender30min"
+                    android:textColor="@color/white_text"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/txtReminderOntime"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:paddingBottom="5dp"
+                    android:text="@string/setRimenderOnTime"
+                    android:textColor="@color/white_text"
+                    android:textSize="15dp" />
+
+                <Button
+                    android:id="@+id/btnCancelAlarm"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:background="@drawable/btn_cancel"
+                    android:paddingBottom="5dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

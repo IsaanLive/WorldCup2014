@@ -1,0 +1,84 @@
+{
+status: "SUCCESS",
+data: [
+{
+match_id: "15",
+match_host_id: "bel_int",
+match_guest_id: "alg_int",
+match_host_name: "Belgium",
+match_guest_name: "Algeria",
+match_host_full_name: "Belgium",
+match_guest_full_name: "Algeria",
+match_host_score: "0",
+match_guest_score: "0",
+location: "12",
+match_date: "2014-06-17 13:00"
+},
+{
+match_id: "17",
+match_host_id: "rus_int",
+match_guest_id: "korr_int",
+match_host_name: "Russia",
+match_guest_name: "South Korea",
+match_host_full_name: "Russia",
+match_guest_full_name: "Korea Republic",
+match_host_score: "0",
+match_guest_score: "0",
+location: "8",
+match_date: "2014-06-17 18:00"
+},
+{
+match_id: "30",
+match_host_id: "bel_int",
+match_guest_id: "rus_int",
+match_host_name: "Belgium",
+match_guest_name: "Russia",
+match_host_full_name: "Belgium",
+match_guest_full_name: "Russia",
+match_host_score: "0",
+match_guest_score: "0",
+location: "9",
+match_date: "2014-06-22 13:00"
+},
+{
+match_id: "31",
+match_host_id: "korr_int",
+match_guest_id: "alg_int",
+match_host_name: "South Korea",
+match_guest_name: "Algeria",
+match_host_full_name: "Korea Republic",
+match_guest_full_name: "Algeria",
+match_host_score: "0",
+match_guest_score: "0",
+location: "10",
+match_date: "2014-06-22 16:00"
+},
+{
+match_id: "47",
+match_host_id: "korr_int",
+match_guest_id: "bel_int",
+match_host_name: "South Korea",
+match_guest_name: "Belgium",
+match_host_full_name: "Korea Republic",
+match_guest_full_name: "Belgium",
+match_host_score: "0",
+match_guest_score: "0",
+location: "1",
+match_date: "2014-06-26 17:00"
+},
+{
+match_id: "48",
+match_host_id: "alg_int",
+match_guest_id: "rus_int",
+match_host_name: "Algeria",
+match_guest_name: "Russia",
+match_host_full_name: "Algeria",
+match_guest_full_name: "Russia",
+match_host_score: "0",
+match_guest_score: "0",
+location: "11",
+match_date: "2014-06-26 17:00"
+}
+],
+message: "OK"
+}

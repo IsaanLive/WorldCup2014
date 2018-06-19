@@ -1,0 +1,84 @@
+{
+status: "SUCCESS",
+data: [
+{
+match_id: "6",
+match_host_id: "uru_int",
+match_guest_id: "costric_int",
+match_host_name: "Uruguay",
+match_guest_name: "Costa Rica",
+match_host_full_name: "Uruguay",
+match_guest_full_name: "Costa Rica",
+match_host_score: "0",
+match_guest_score: "0",
+location: "3",
+match_date: "2014-06-14 16:00"
+},
+{
+match_id: "7",
+match_host_id: "eng_int",
+match_guest_id: "ita_int",
+match_host_name: "England",
+match_guest_name: "Italy",
+match_host_full_name: "England",
+match_guest_full_name: "Italy",
+match_host_score: "0",
+match_guest_score: "0",
+location: "4",
+match_date: "2014-06-14 18:00"
+},
+{
+match_id: "22",
+match_host_id: "uru_int",
+match_guest_id: "eng_int",
+match_host_name: "Uruguay",
+match_guest_name: "England",
+match_host_full_name: "Uruguay",
+match_guest_full_name: "England",
+match_host_score: "0",
+match_guest_score: "0",
+location: "1",
+match_date: "2014-06-19 16:00"
+},
+{
+match_id: "24",
+match_host_id: "ita_int",
+match_guest_id: "costric_int",
+match_host_name: "Italy",
+match_guest_name: "Costa Rica",
+match_host_full_name: "Italy",
+match_guest_full_name: "Costa Rica",
+match_host_score: "0",
+match_guest_score: "0",
+location: "6",
+match_date: "2014-06-20 13:00"
+},
+{
+match_id: "37",
+match_host_id: "ita_int",
+match_guest_id: "uru_int",
+match_host_name: "Italy",
+match_guest_name: "Uruguay",
+match_host_full_name: "Italy",
+match_guest_full_name: "Uruguay",
+match_host_score: "0",
+match_guest_score: "0",
+location: "2",
+match_date: "2014-06-24 13:00"
+},
+{
+match_id: "38",
+match_host_id: "costric_int",
+match_guest_id: "eng_int",
+match_host_name: "Costa Rica",
+match_guest_name: "England",
+match_host_full_name: "Costa Rica",
+match_guest_full_name: "England",
+match_host_score: "0",
+match_guest_score: "0",
+location: "12",
+match_date: "2014-06-24 13:00"
+}
+],
+message: "OK"
+}

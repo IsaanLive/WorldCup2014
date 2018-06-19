@@ -1,0 +1,66 @@
+{
+status: "SUCCESS",
+data: [
+{
+team_id: "gre_int",
+group_name: "C",
+team_name: "Greece",
+team_full_name: "Greece",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "1",
+team_detail: "group=C "
+},
+{
+team_id: "colomb_int",
+group_name: "C",
+team_name: "Colombia",
+team_full_name: "Colombia",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "2",
+team_detail: "group=C "
+},
+{
+team_id: "ivoc_int",
+group_name: "C",
+team_name: "Ivory Coast",
+team_full_name: "Ivory Coast",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "3",
+team_detail: "group=C "
+},
+{
+team_id: "jap_int",
+group_name: "C",
+team_name: "Japan",
+team_full_name: "Japan",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "4",
+team_detail: "group=C "
+}
+],
+message: "OK"
+}

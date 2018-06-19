@@ -1,0 +1,66 @@
+{
+status: "SUCCESS",
+data: [
+{
+team_id: "ita_int",
+group_name: "D",
+team_name: "Italy",
+team_full_name: "Italy",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "1",
+team_detail: "group=D "
+},
+{
+team_id: "eng_int",
+group_name: "D",
+team_name: "England",
+team_full_name: "England",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "2",
+team_detail: "group=D "
+},
+{
+team_id: "uru_int",
+group_name: "D",
+team_name: "Uruguay",
+team_full_name: "Uruguay",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "3",
+team_detail: "group=D "
+},
+{
+team_id: "costric_int",
+group_name: "D",
+team_name: "Costa Rica",
+team_full_name: "Costa Rica",
+points: "0",
+played: "0",
+won: "0",
+drawn: "0",
+lost: "0",
+scored: "0",
+conceeded: "0",
+team_position: "4",
+team_detail: "group=D "
+}
+],
+message: "OK"
+}

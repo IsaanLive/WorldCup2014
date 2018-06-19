@@ -1,0 +1,84 @@
+{
+status: "SUCCESS",
+data: [
+{
+match_id: "3",
+match_host_id: "spa_int",
+match_guest_id: "ned_int",
+match_host_name: "Spain",
+match_guest_name: "Netherlands",
+match_host_full_name: "Spain",
+match_guest_full_name: "Netherlands",
+match_host_score: "0",
+match_guest_score: "0",
+location: "7",
+match_date: "2014-06-13 16:00"
+},
+{
+match_id: "4",
+match_host_id: "chil_int",
+match_guest_id: "aus_int",
+match_host_name: "Chile",
+match_guest_name: "Australia",
+match_host_full_name: "Chile",
+match_guest_full_name: "Australia",
+match_host_score: "0",
+match_guest_score: "0",
+location: "8",
+match_date: "2014-06-13 18:00"
+},
+{
+match_id: "18",
+match_host_id: "aus_int",
+match_guest_id: "ned_int",
+match_host_name: "Australia",
+match_guest_name: "Netherlands",
+match_host_full_name: "Australia",
+match_guest_full_name: "Netherlands",
+match_host_score: "0",
+match_guest_score: "0",
+location: "10",
+match_date: "2014-06-18 13:00"
+},
+{
+match_id: "19",
+match_host_id: "spa_int",
+match_guest_id: "chil_int",
+match_host_name: "Spain",
+match_guest_name: "Chile",
+match_host_full_name: "Spain",
+match_guest_full_name: "Chile",
+match_host_score: "0",
+match_guest_score: "0",
+location: "9",
+match_date: "2014-06-18 16:00"
+},
+{
+match_id: "33",
+match_host_id: "ned_int",
+match_guest_id: "chil_int",
+match_host_name: "Netherlands",
+match_guest_name: "Chile",
+match_host_full_name: "Netherlands",
+match_guest_full_name: "Chile",
+match_host_score: "0",
+match_guest_score: "0",
+location: "1",
+match_date: "2014-06-23 13:00"
+},
+{
+match_id: "34",
+match_host_id: "aus_int",
+match_guest_id: "spa_int",
+match_host_name: "Australia",
+match_guest_name: "Spain",
+match_host_full_name: "Australia",
+match_guest_full_name: "Spain",
+match_host_score: "0",
+match_guest_score: "0",
+location: "11",
+match_date: "2014-06-23 13:00"
+}
+],
+message: "OK"
+}

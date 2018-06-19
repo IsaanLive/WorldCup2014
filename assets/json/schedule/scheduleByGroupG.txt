@@ -1,0 +1,84 @@
+{
+status: "SUCCESS",
+data: [
+{
+match_id: "12",
+match_host_id: "ger_int",
+match_guest_id: "por_int",
+match_host_name: "Germany",
+match_guest_name: "Portugal",
+match_host_full_name: "Germany",
+match_guest_full_name: "Portugal",
+match_host_score: "0",
+match_guest_score: "0",
+location: "7",
+match_date: "2014-06-16 13:00"
+},
+{
+match_id: "14",
+match_host_id: "gha_int",
+match_guest_id: "usa_int",
+match_host_name: "Ghana",
+match_guest_name: "USA",
+match_host_full_name: "Ghana",
+match_guest_full_name: "USA",
+match_host_score: "0",
+match_guest_score: "0",
+location: "2",
+match_date: "2014-06-16 19:00"
+},
+{
+match_id: "28",
+match_host_id: "ger_int",
+match_guest_id: "gha_int",
+match_host_name: "Germany",
+match_guest_name: "Ghana",
+match_host_full_name: "Germany",
+match_guest_full_name: "Ghana",
+match_host_score: "0",
+match_guest_score: "0",
+location: "3",
+match_date: "2014-06-21 16:00"
+},
+{
+match_id: "32",
+match_host_id: "usa_int",
+match_guest_id: "por_int",
+match_host_name: "USA",
+match_guest_name: "Portugal",
+match_host_full_name: "USA",
+match_guest_full_name: "Portugal",
+match_host_score: "0",
+match_guest_score: "0",
+location: "4",
+match_date: "2014-06-22 18:00"
+},
+{
+match_id: "45",
+match_host_id: "por_int",
+match_guest_id: "gha_int",
+match_host_name: "Portugal",
+match_guest_name: "Ghana",
+match_host_full_name: "Portugal",
+match_guest_full_name: "Ghana",
+match_host_score: "0",
+match_guest_score: "0",
+location: "5",
+match_date: "2014-06-26 13:00"
+},
+{
+match_id: "46",
+match_host_id: "usa_int",
+match_guest_id: "ger_int",
+match_host_name: "USA",
+match_guest_name: "Germany",
+match_host_full_name: "USA",
+match_guest_full_name: "Germany",
+match_host_score: "0",
+match_guest_score: "0",
+location: "6",
+match_date: "2014-06-26 13:00"
+}
+],
+message: "OK"
+}
