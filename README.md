@@ -35,4 +35,13 @@ Click Next.
 
 Your Eclipse IDE is now set up to develop Android apps, but you need to add the latest SDK platform tools and an Android platform to your environment. To get these packages for your SDK, continue to Adding Platforms and Packages.
 
+<b>Features of the World Cup Application</b><br />
+* Countdown to the kickoff time
+* Show all matches
+* Set alarm for each match
+* Users are able to see each teams current position, scores, win, lose, draw per group
+* Live scores with a detailed timeline for each match
+* Top scorers of the tournament
+* Admob integrated
+
 After installation has been done, Import the Complete Project into your Workspace.
