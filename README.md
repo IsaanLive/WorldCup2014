@@ -5,7 +5,7 @@ Android offers a custom plugin for the Eclipse IDE, called Android Development T
 
 If you need to install Eclipse, you can download it from http://eclipse.org/
 
-Download the ADT Plugin<br />
+<b>Download the ADT Plugin</b><br />
 Start Eclipse, then select Help > Install New Software.
 Click Add, in the top-right corner.
 In the Add Repository dialog that appears, enter "ADT Plugin" for the Name and the following URL for the Location:
@@ -25,7 +25,7 @@ If you get a security warning saying that the authenticity or validity of the so
 
 When the installation completes, restart Eclipse.
 
-Configure the ADT Plugin<br />
+<b>Configure the ADT Plugin</b><br />
 Once Eclipse restarts, you must specify the location of your Android SDK directory:
 
 In the "Welcome to Android Development" window that appears, select Use existing SDKs.
