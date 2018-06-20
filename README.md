@@ -1,6 +1,6 @@
 The World Cup Application was coded in Eclipse IDE with the Android SDK.
 
-Installing the Eclipse Plugin
+<b>Installing the Eclipse Plugin</b>
 Android offers a custom plugin for the Eclipse IDE, called Android Development Tools (ADT). This plugin provides a powerful, integrated environment in which to develop Android apps. It extends the capabilities of Eclipse to let you quickly set up new Android projects, build an app UI, debug your app, and export signed (or unsigned) app packages (APKs) for distribution.
 
 If you need to install Eclipse, you can download it from http://eclipse.org/
