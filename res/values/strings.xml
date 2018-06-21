@@ -73,9 +73,9 @@
     <!-- String Toast -->
 
     <string name="toast_message_no_data_match"> No Infos for this Match </string>
-    <string name="toast_message_rimender15"> Ein Alarm wurde für dieses Spiel auf 15 Minuten eingestellt </string>
-    <string name="toast_message_rimender30"> Ein Alarm wurde für dieses Spiel vor 30 Minuten eingestellt </string>
-    <string name="toast_message_rimender_ontime "> Ein Alarm wurde für dieses Spiel aktiviert </string>
+    <string name="toast_message_rimender15"> Alarm was set for 15 Minutes before the Match </string>
+    <string name="toast_message_rimender30"> Alarm was set for 30 Minutes before the Match</string>
+    <string name="toast_message_rimender_ontime "> Alarm was activated for this Match </string>
     <string name="toast_title_elapsed_time "> Abgelaufene Spiel - Alarm wurde nicht aktiviert </string>
     <string name="toast_message_loading "> Laden..... </string>
     <string name="toast_message_loading_no_network "> Loading..... </string>
