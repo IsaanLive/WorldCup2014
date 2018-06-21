@@ -41,14 +41,14 @@
     <string name="red_card">Red Card</string>
     <string name="yellow_card">Yellow Card</string>
     <string name="pennaly">Penalty</string>
-    <string name="owngoal">(o.g): Eigentor</string>
-    <string name="guide_pts">Pts = Punkte</string>
+    <string name="owngoal">Own Goal</string>
+    <string name="guide_pts">Points</string>
     <string name="downloading">Downloading&#8230;</string>
-    <string name="team">Mannschaft</string>
-    <string name="guide_w">W   = Sieg</string>
-    <string name="guide_l">L   = Verloren</string>
+    <string name="team">Team</string>
+    <string name="guide_w">W   = Win</string>
+    <string name="guide_l">L   = Lost</string>
     <string name="guide_mp">MP  =  Spiele gespielt </string>
-    <string name="guide_D">D   = Unentschieden</string>
+    <string name="guide_D">D   = Draw</string>
     <string name="guide_plus">+/-  = Tordifferenz</string>
     <string name="match_number">Spiel : </string>
     <string name="group_">Gruppe</string>
