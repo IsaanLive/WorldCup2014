@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-     <string name="app_name">WorldCup 2014 Brazil</string>
+    <string name="app_name">WorldCup 2014 Brazil</string>
     <string name="action_settings">Swttings</string>
     <string name="title_activity_schedule">Shedule</string>
     <string name="tab_home">HOME</string>
@@ -127,36 +127,36 @@
     </string-array>
     
     <!-- country name -->
-    <string name="GERMANY">Deutschland</string>
-    <string name="SWITZERLAND">Schweiz</string>
-    <string name="ALGERIA">Algerien</string>
-    <string name="ARGENTINA">Argentinien</string>
-    <string name="AUSTRALIA">Australien</string>
-    <string name="BELGIUM">Belgien</string>
-    <string name="BOSNIA_HERZEGOVINA">Bosnien und Herzegowina</string>
-    <string name="BRAZIL">Brasilien</string>
+    <string name="GERMANY">Germany</string>
+    <string name="SWITZERLAND">Switzerland</string>
+    <string name="ALGERIA">Algeria</string>
+    <string name="ARGENTINA">Argentina</string>
+    <string name="AUSTRALIA">Australia</string>
+    <string name="BELGIUM">Belgium</string>
+    <string name="BOSNIA_HERZEGOVINA">Bosnia amd Herzegowina</string>
+    <string name="BRAZIL">Brazil</string>
     <string name="CHILE">Chile</string>
     <string name="COSTA_RICA">Costa Rica</string>
-    <string name="IVORY_COAST">Elfenbeinküste</string>
+    <string name="IVORY_COAST">Ivory Coast</string>
     <string name="ENGLAND">England</string>
     <string name="ECUADOR">Ecuador</string>
-    <string name="FRANCE">Frankreich</string>
+    <string name="FRANCE">France</string>
     <string name="GHANA">Ghana</string>
-    <string name="GREECE">Griechenland</string>
+    <string name="GREECE">Greece</string>
     <string name="HONDURAS">Honduras</string>
     <string name="IRAN">Iran</string>
-    <string name="ITALY">Italien</string>
+    <string name="ITALY">Italy</string>
     <string name="JAPAN">Japan</string>
-    <string name="CAMEROON">Kamerun</string>
-    <string name="COLOMBIA">Kolumbien</string>
-    <string name="CROATIA">Kroatien</string>
-    <string name="MEXICO">Mexiko</string>
-    <string name="NETHERLANDS">Niederlande</string>
+    <string name="CAMEROON">Cameroon</string>
+    <string name="COLOMBIA">Columbia</string>
+    <string name="CROATIA">Croatia</string>
+    <string name="MEXICO">Mexio</string>
+    <string name="NETHERLANDS">Netherlands</string>
     <string name="NIGERIA">Nigeria</string>
     <string name="PORTUGAL">Portugal</string>
-    <string name="RUSSIA">Russland</string>
-    <string name="SPAIN">Spanien</string>
-    <string name="SOUTH_KOREA">Südkorea</string>
+    <string name="RUSSIA">Russia</string>
+    <string name="SPAIN">Spain/string>
+    <string name="SOUTH_KOREA">South Korea</string>
     <string name="URUGUAY">Uruguay</string>
     <string name="USA">USA</string>
     <string name="UNKNOW">Unknown</string>   
