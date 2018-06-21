@@ -104,11 +104,11 @@
     <string name="click_update">Click hre to update your application !</string>
 
     <!-- String About -->
-    <string name="about_header">ÜBER UNS</string>
-    <string name="about_title">BRASILIEN 2014</string>
-    <string name="about_content_red">Sentosa Technologie entwickelt Mobile Applications weltweit mit einem Buero in Singapore, Deutschland und Thailand.</string>
+    <string name="about_header">About us</string>
+    <string name="about_title">World Cup 2014</string>
+    <string name="about_content_red">EuroAsia Communications Pte Ltd develops Mobile application on the Android and iOS platforms</string>
     <string name="about_content_black">We are also happy to serve your Freelance/Outsourcing jobs. Your satisfaction is our first Priority </string>
-    <string name="about_link">http://guiltyplanet.com</string>
+    <string name="about_link">http://euroasia.company</string>
 
     <!-- String Detail Groups -->
     <string name="info_country_header"> FOOTBALL TEAM INFO</string>
@@ -120,10 +120,10 @@
     <string name="detai_group_point_Pts">Pts</string>
 
     <!-- String Detail Match -->
-     <string name="capacity">Kapazität</string>
+     <string name="capacity">Capacity</string>
     <!-- Array -->
     <string-array name="arraySelect">
-        <item>Option wählen</item>
+        <item>Select Option</item>
     </string-array>
     
     <!-- country name -->
@@ -159,6 +159,6 @@
     <string name="SOUTH_KOREA">Südkorea</string>
     <string name="URUGUAY">Uruguay</string>
     <string name="USA">USA</string>
-    <string name="UNKNOW">Unbekannt</string>   
+    <string name="UNKNOW">Unknown</string>   
     
  </resources>
