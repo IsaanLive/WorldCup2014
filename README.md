@@ -24,8 +24,7 @@ Read and accept the license agreements, then click Finish.
 If you get a security warning saying that the authenticity or validity of the software can't be established, click OK.
 
 When the installation completes, restart Eclipse.
-
-<b>Configure the ADT Plugin</b><br />
+<h2>Configure the ADT Plugin</h2>
 Once Eclipse restarts, you must specify the location of your Android SDK directory:
 
 In the "Welcome to Android Development" window that appears, select Use existing SDKs.
@@ -35,7 +34,7 @@ Click Next.
 
 Your Eclipse IDE is now set up to develop Android apps, but you need to add the latest SDK platform tools and an Android platform to your environment. To get these packages for your SDK, continue to Adding Platforms and Packages.
 
-<b>Features of the World Cup Application</b><br />
+<h2>Features of the World Cup Application</h2>
 * Countdown to the kickoff time
 * Show all matches
 * Set alarm for each match
