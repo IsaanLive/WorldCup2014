@@ -60,15 +60,15 @@
     <string name="button_no">No</string>
     <string name="button_oui">Yes</string>
     <string name="button_cancel">Cancel</string>
-    <string name="radio_button_befor15mins">15 Minuten vor dem Spiel</string>
-    <string name="radio_button_befor30mins">30 Minuten vor dem Spiel</string>
+    <string name="radio_button_befor15mins">15 Minutes before the Match</string>
+    <string name="radio_button_befor30mins">30 Minutes before the Match</string>
     <string name="radio_button_onTime"> On Time </string>
 
     <!-- String Dialog -->
 
-    <string name="dialog_title_before15min"> Das Spiel wird in 15 Minuten beginnen </string>
-    <string name="dialog_title_before30min"> Das Spiel wird in 30 Minuten beginnen </string>
-    <string name="dialog_title_onTime"> Das Spiel beginnt!!!  </string>
+    <string name="dialog_title_before15min"> Match starts in 15 Minutes </string>
+    <string name="dialog_title_before30min"> Match starts in 30 Minutes </string>
+    <string name="dialog_title_onTime"> Match is starting!!!  </string>
 
     <!-- String Toast -->
 
