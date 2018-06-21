@@ -50,8 +50,8 @@
     <string name="guide_mp">MP  =  Matches Played </string>
     <string name="guide_D">D   = Draw</string>
     <string name="guide_plus">+/-  = Goal </string>
-    <string name="match_number">Spiel : </string>
-    <string name="group_">Gruppe</string>
+    <string name="match_number">Match : </string>
+    <string name="group_">Group</string>
     <string name="myWeb">https://www.euroasia.company</string>
     <string name="UNK">\?</string>
 
@@ -72,7 +72,7 @@
 
     <!-- String Toast -->
 
-    <string name="toast_message_no_data_match"> Keine Infos zum Spiel </string>
+    <string name="toast_message_no_data_match"> No Infos for this Match </string>
     <string name="toast_message_rimender15"> Ein Alarm wurde für dieses Spiel auf 15 Minuten eingestellt </string>
     <string name="toast_message_rimender30"> Ein Alarm wurde für dieses Spiel vor 30 Minuten eingestellt </string>
     <string name="toast_message_rimender_ontime "> Ein Alarm wurde für dieses Spiel aktiviert </string>
