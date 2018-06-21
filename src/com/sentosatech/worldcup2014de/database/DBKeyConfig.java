@@ -54,4 +54,4 @@ public final class DBKeyConfig {
 	public static String KEY_STADIUM_CAPACITY = "capacity";
 	public static String KEY_STADIUM_FULL_NAME = "fullName";
 
-}
+} 
