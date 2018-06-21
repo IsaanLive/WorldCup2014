@@ -26,7 +26,7 @@
     <string name="history">Historic Games</string>
     <string name="future">Futue Matches</string>
     <string name="country">Country</string>
-    <string name="today">HEUTE</string>
+    <string name="today">Today</string>
     <string name="point_group_title">Group Points</string>
     <string name="main_no_items">No Data found</string>
     <string name="click_web">Click on the Link to get more details from the official FIFA website</string>
@@ -36,7 +36,7 @@
     <string name="setRimenderOnTime">Alarm on time </string>
     <string name="no_match_found">No Match found</string>
     <string name="no_date_found">No Data found</string>
-    <string name="reminder_title">Erinnerung für dieses Spiel </string>
+    <string name="reminder_title">Remember this Match </string>
     <string name="goal">Goal</string>
     <string name="red_card">Red Card</string>
     <string name="yellow_card">Yellow Card</string>
@@ -47,18 +47,18 @@
     <string name="team">Team</string>
     <string name="guide_w">W   = Win</string>
     <string name="guide_l">L   = Lost</string>
-    <string name="guide_mp">MP  =  Spiele gespielt </string>
+    <string name="guide_mp">MP  =  Matches Played </string>
     <string name="guide_D">D   = Draw</string>
-    <string name="guide_plus">+/-  = Tordifferenz</string>
+    <string name="guide_plus">+/-  = Goal </string>
     <string name="match_number">Spiel : </string>
     <string name="group_">Gruppe</string>
-    <string name="myWeb">http://reservations.guiltyplanet.com</string>
+    <string name="myWeb">https://www.euroasia.company</string>
     <string name="UNK">\?</string>
 
     <!-- String Button -->
     <string name="button_ok">OK</string>
-    <string name="button_no">Nein</string>
-    <string name="button_oui">Ja</string>
+    <string name="button_no">No</string>
+    <string name="button_oui">Yes</string>
     <string name="button_cancel">Cancel</string>
     <string name="radio_button_befor15mins">15 Minuten vor dem Spiel</string>
     <string name="radio_button_befor30mins">30 Minuten vor dem Spiel</string>
