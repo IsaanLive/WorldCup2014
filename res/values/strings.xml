@@ -76,11 +76,11 @@
     <string name="toast_message_rimender15"> Alarm was set for 15 Minutes before the Match </string>
     <string name="toast_message_rimender30"> Alarm was set for 30 Minutes before the Match</string>
     <string name="toast_message_rimender_ontime "> Alarm was activated for this Match </string>
-    <string name="toast_title_elapsed_time "> Abgelaufene Spiel - Alarm wurde nicht aktiviert </string>
-    <string name="toast_message_loading "> Laden..... </string>
+    <string name="toast_title_elapsed_time "> Time elapsed - Alarm was not activated </string>
+    <string name="toast_message_loading "> Loading..... </string>
     <string name="toast_message_loading_no_network "> Loading..... </string>
-    <string name="toast_message_no_network_no_data "> Sie sind nicht mit dem Internet verbunden. Datenbank wurde nicht geladen </string>
-    <string name="msg_no_interet">Keine Internetverbindung !</string>
+    <string name="toast_message_no_network_no_data "> Your are not connected to the Internet. No Match data loaded </string>
+    <string name="msg_no_interet">No Internet Connection !</string>
     <string name="msg_cannot_get_list_event">Es sind keine Termine für dieses Spiel angegeben</string>
     <string name="msg_open_network">Keine Internetverbindung !\n Wollen Sie die Einstellungen jetzt öffnen?</string>
     <string name="msg_update">Neuere Softwareversion verfügbar. Bitte aktualisieren Sie jetzt dieses Program</string>
