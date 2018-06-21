@@ -78,7 +78,7 @@
     <string name="toast_message_rimender_ontime "> Ein Alarm wurde für dieses Spiel aktiviert </string>
     <string name="toast_title_elapsed_time "> Abgelaufene Spiel - Alarm wurde nicht aktiviert </string>
     <string name="toast_message_loading "> Laden..... </string>
-    <string name="toast_message_loading_no_network "> Laden..... </string>
+    <string name="toast_message_loading_no_network "> Loading..... </string>
     <string name="toast_message_no_network_no_data "> Sie sind nicht mit dem Internet verbunden. Datenbank wurde nicht geladen </string>
     <string name="msg_no_interet">Keine Internetverbindung !</string>
     <string name="msg_cannot_get_list_event">Es sind keine Termine für dieses Spiel angegeben</string>
