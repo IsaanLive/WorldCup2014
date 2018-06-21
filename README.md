@@ -47,3 +47,6 @@ Your Eclipse IDE is now set up to develop Android apps, but you need to add the 
 After installation has been done, Import the Complete Project into your Workspace.
 
 ![Screenshot](https://user-images.githubusercontent.com/8135354/41693837-7952dece-7531-11e8-9bc3-41f3d8fe6cc5.png)
+
+<p align="right">
+  <img src="(https://user-images.githubusercontent.com/8135354/41693837-7952dece-7531-11e8-9bc3-41f3d8fe6cc5.png" height="300px"/></p>
