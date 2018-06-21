@@ -62,7 +62,7 @@
     <string name="button_cancel">Cancel</string>
     <string name="radio_button_befor15mins">15 Minuten vor dem Spiel</string>
     <string name="radio_button_befor30mins">30 Minuten vor dem Spiel</string>
-    <string name="radio_button_onTime"> Pünktlich </string>
+    <string name="radio_button_onTime"> On Time </string>
 
     <!-- String Dialog -->
 
