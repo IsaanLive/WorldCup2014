@@ -81,12 +81,12 @@
     <string name="toast_message_loading_no_network "> Loading..... </string>
     <string name="toast_message_no_network_no_data "> Your are not connected to the Internet. No Match data loaded </string>
     <string name="msg_no_interet">No Internet Connection !</string>
-    <string name="msg_cannot_get_list_event">Es sind keine Termine für dieses Spiel angegeben</string>
-    <string name="msg_open_network">Keine Internetverbindung !\n Wollen Sie die Einstellungen jetzt öffnen?</string>
-    <string name="msg_update">Neuere Softwareversion verfügbar. Bitte aktualisieren Sie jetzt dieses Program</string>
+    <string name="msg_cannot_get_list_event">No Data available for this Match</string>
+    <string name="msg_open_network">No Internet Connection !\n Open Settings now?</string>
+    <string name="msg_update">New Update available. Please update your app on GooglePlay </string>
     <!-- String WebView -->
 
-    <string name="Web_view_title">Alarm setzen für dieses Spiel </string>
+    <string name="Web_view_title">Set Alarm for this Match </string>
 
     <!-- Home screen -->
     <string name="home_title">WORLD CUP</string>
@@ -100,8 +100,8 @@
     <string name="country_cote">Côte d\'Ivoire</string>
     <!-- Notification messsage -->
 
-    <string name="update_message">Neue Daten verfügbar </string>
-    <string name="click_update">Klicken Sie hier, um die neue Version zu aktualisieren !</string>
+    <string name="update_message">New Data available </string>
+    <string name="click_update">Click hre to update your application !</string>
 
     <!-- String About -->
     <string name="about_header">ÜBER UNS</string>
