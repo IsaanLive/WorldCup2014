@@ -1,6 +1,6 @@
 package com.sentosatech.worldcup2014de.activity;
 
-import java.util.ArrayList;
+import java.util.ArrayList; 
 import java.util.List;
 
 import android.os.Bundle;
