@@ -1,7 +1,7 @@
 package com.sentosatech.worldcup2014de.database;
 public final class DBKeyConfig {
 
-	// TABLE :
+	// Table of Database:
 	// ****************************************************************
 	
 	public static String TABLE_COUNTRY = "Country";
