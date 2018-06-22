@@ -43,8 +43,8 @@ public final class GlobalValue {
 	// -------------------Value
 	// Config------------------------------------------------------//
 
-	public static String URL_FILE_VERSION_HOST = "http://fruitysolution.vn:8020/worldcup/version.txt";
-	public static String URL_FILE_DATABASE_HOST = "http://fruitysolution.vn:8020/worldcup/Worldcup2014.txt";
+	public static String URL_FILE_VERSION_HOST = "https://euroasia.company/worldcup/version.txt";
+	public static String URL_FILE_DATABASE_HOST = "https://euroasia.company/worldcup/Worldcup2014.txt";
 	public static String ADMOB_ID = "ca-app-pub-0184587035488950/1195528894";
 	public static String alarmRing = "alarm.mp3";
 	public static int vibrateAlarm = 7;
