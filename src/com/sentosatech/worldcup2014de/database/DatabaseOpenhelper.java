@@ -1,3 +1,10 @@
+/*
+ * Name: DatabaseOpenhelper.java,v $
+ * Version: $Revision: 1.4 $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
+ *
+ * Copyright (C) Wolfgang Holzem - All rights reserved.
+ */
 package com.sentosatech.worldcup2014de.database;
 
 import java.io.FileOutputStream;
@@ -84,7 +91,7 @@ public class DatabaseOpenhelper extends SQLiteOpenHelper {
 			checkDB = SQLiteDatabase.openDatabase(databaseConfig.getDatabasefullpath(), null,
 					SQLiteDatabase.NO_LOCALIZED_COLLATORS | SQLiteDatabase.OPEN_READONLY);
 		} catch (SQLiteException e) {
-			SmartLog.log(TAG, "Database is not exist! " + databaseConfig.getDatabasefullpath()
+			SmartLog.log(TAG, "Database does not exist! " + databaseConfig.getDatabasefullpath()
 					+ " ======================");
 			e.printStackTrace();
 		}
