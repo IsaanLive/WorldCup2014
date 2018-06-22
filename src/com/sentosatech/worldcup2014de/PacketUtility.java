@@ -1,9 +1,9 @@
 /*
  * Name: $RCSfile: PacketUtility.java,v $
  * Version: $Revision: 1.1 $
- * Date: $Date: Nov 15, 2011 2:05:59 PM $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
  *
- * Copyright (C) 2011 COMPANY_NAME, Inc. All rights reserved.
+ * Copyright (C) Wolfgang Holzem, Inc. All rights reserved.
  */
 
 package com.sentosatech.worldcup2014de;
