@@ -1,11 +1,10 @@
 /*
- * Name: $RCSfile: DatabaseUtility.java,v $
- * Version: $Revision: 1.1 $
- * Date: $Date: Oct 31, 2011 2:55:54 PM $
+ * Name: DatabaseUtility.java,v $
+ * Version: $Revision: 1.4 $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
  *
- * Copyright (C) 2011 COMPANY_NAME, Inc. All rights reserved.
+ * Copyright (C) Wolfgang Holzem - All rights reserved.
  */
-
 package com.sentosatech.worldcup2014de.database;
 
 import java.util.ArrayList;
