@@ -1,9 +1,9 @@
 /*
- * Name: $RCSfile: SmartLog.java,v $
- * Version: $Revision: 1.1 $
- * Date: $Date: Oct 31, 2011 1:58:08 PM $
+ * Name: SmartLog.java,v $
+ * Version: $Revision: 1.4 $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
  *
- * Copyright (C) 2011 COMPANY_NAME, Inc. All rights reserved.
+ * Copyright (C) Wolfgang Holzem - All rights reserved.
  */
 
 package com.sentosatech.worldcup2014de.utility;
