@@ -1,9 +1,9 @@
 /*
- * Name: $RCSfile: AsyncHttpResponseListener.java,v $
- * Version: $Revision: 1.1 $
- * Date: $Date: Oct 31, 2011 4:24:06 PM $
+ * Name: AsyncHttpResponseListener.java,v $
+ * Version: $Revision: 1.4 $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
  *
- * Copyright (C) 2011 COMPANY_NAME, Inc. All rights reserved.
+ * Copyright (C) Wolfgang Holzem - All rights reserved.
  */
 
 package com.sentosatech.worldcup2014de.network;
@@ -11,7 +11,7 @@ package com.sentosatech.worldcup2014de.network;
 /**
  * Predefine some http listener methods
  * 
- * @author Lemon
+ * @author wolfgang
  */
 public interface AsyncHttpResponseListener {
 	/**
