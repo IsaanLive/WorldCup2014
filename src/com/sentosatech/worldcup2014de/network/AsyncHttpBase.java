@@ -1,3 +1,10 @@
+/*
+ * Name: AsyncHttpBase.java,v $
+ * Version: $Revision: 1.4 $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
+ *
+ * Copyright (C) Wolfgang Holzem - All rights reserved.
+ */
 package com.sentosatech.worldcup2014de.network;
 
 import java.io.IOException;
@@ -36,7 +43,7 @@ import android.util.Log;
 /**
  * AsyncHttpBase is base class for AsyncHttpGet and AsyncHttpPost class
  * 
- * @author Lemon
+ * 
  */
 public class AsyncHttpBase extends AsyncTask<String, Integer, String> {
 	// Network status
