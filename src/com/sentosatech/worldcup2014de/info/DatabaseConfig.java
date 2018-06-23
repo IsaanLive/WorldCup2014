@@ -1,3 +1,10 @@
+/*
+ * Name: DatabaseConfig.java,v $
+ * Version: $Revision: 1.4 $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
+ *
+ * Copyright (C) Wolfgang Holzem - All rights reserved.
+ */
 package com.sentosatech.worldcup2014de.info;
 
 import com.sentosatech.worldcup2014de.PacketUtility;
