@@ -1,9 +1,9 @@
 /*
- * Name: $RCSfile: AsyncHttpPost.java,v $
- * Version: $Revision: 1.1 $
- * Date: $Date: Apr 21, 2011 2:43:05 PM $
+ * Name: AsyncHttpPost.java,v $
+ * Version: $Revision: 1.4 $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
  *
- * Copyright (C) 2011 COMPANY NAME, Inc. All rights reserved.
+ * Copyright (C) Wolfgang Holzem - All rights reserved.
  */
 
 package com.sentosatech.worldcup2014de.network;
