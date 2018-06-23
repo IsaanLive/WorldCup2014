@@ -1,3 +1,10 @@
+/*
+ * Name: CheckNewDataService.java,v $
+ * Version: $Revision: 1.4 $
+ * Date: $Date: Nov 15, 2013 2:05:59 PM $
+ *
+ * Copyright (C) Wolfgang Holzem - All rights reserved.
+ */
 package com.sentosatech.worldcup2014de;
 
 import java.io.IOException;
@@ -18,7 +25,7 @@ public class GcmManager {
 	private final String PROPERTY_APP_VERSION = "appVersion";
 	private final String PROPERTY_ON_SERVER_EXPIRATION_TIME = "onServerExpirationTimeMs";
 	/**
-	 * Default lifespan (7 days) of a reservation until it is considered
+	 * Default lifespan (7 days) of a registration until it is considered
 	 * expired.
 	 */
 	private final long REGISTRATION_EXPIRY_TIME_MS = 1000 * 3600 * 24 * 7;
